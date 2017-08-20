@@ -2,8 +2,8 @@ The columns of the tidy_data.txt represent the following features.
 1 The activity type  
 2 The subject index (between 1 and 30)  
   
- and the rest of feastures represent the average over the following features in the original data set for each subject and each activity:
-3 tBodyAcc.mean.X  
+ and the rest of feastures represent the average over the following features in the original data set for each subject and each activity:  
+3 tBodyAcc.mean.X   
 4 tBodyAcc.mean.Y                
 5 tBodyAcc.mean.Z  
 6 tBodyAcc.std.X  
